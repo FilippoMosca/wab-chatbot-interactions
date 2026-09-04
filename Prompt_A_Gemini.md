@@ -1,3 +1,15 @@
+# Prompt A — Gemini vs. WAB Wittgenstein Chatbot
+
+[← Back to comparative interactions](./)
+
+---
+
+## User prompt:
+
+*What does Wittgenstein say about intelligence?*
+
+## A.1 General-purpose model
+
 # User prompt:
 
 *What does Wittgenstein say about intelligence?*
