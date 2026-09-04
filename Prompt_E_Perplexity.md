@@ -1,3 +1,8 @@
+---
+title: "Prompt E — Perplexity vs. WAB Wittgenstein Chatbot"
+interaction: true
+---
+
 # User prompt:
 
 *Compare Wittgenstein's remarks on whether a machine can think with his remarks on Turing machines.*
