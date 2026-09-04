@@ -1,3 +1,8 @@
+---
+title: "Prompt C — ChatGPT vs. WAB Wittgenstein Chatbot"
+interaction: true
+---
+
 # User prompt:
 
 *What does Wittgenstein say about intelligence in his writings between 1931 and 1933?*
