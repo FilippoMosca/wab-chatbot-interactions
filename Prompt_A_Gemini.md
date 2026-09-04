@@ -1,7 +1,6 @@
-# Prompt A — Gemini vs. WAB Wittgenstein Chatbot
-
-[← Back to comparative interactions](./)
-
+---
+title: "Prompt A — Gemini vs. WAB Wittgenstein Chatbot"
+interaction: true
 ---
 
 ## User prompt:
