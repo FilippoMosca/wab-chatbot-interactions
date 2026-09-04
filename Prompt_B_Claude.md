@@ -1,3 +1,8 @@
+---
+title: "Prompt B — Claude vs. WAB Wittgenstein Chatbot"
+interaction: true
+---
+
 # User prompt:
 
 *What does Wittgenstein say that could be relevant for contemporary discussions of artificial intelligence?*
