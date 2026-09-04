@@ -1,3 +1,8 @@
+---
+title: "Prompt D — Microsoft Copilot vs. WAB Wittgenstein Chatbot"
+interaction: true
+---
+
 # User prompt:
 
 *What does Wittgenstein say about intelligence in his manuscripts?*
