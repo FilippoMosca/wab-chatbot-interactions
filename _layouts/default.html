@@ -10,7 +10,9 @@
 <body>
   <div class="container-lg px-3 my-5 markdown-body">
 
-    {% if page.name != "README.md" %}
+    {% assign filename_start = page.name | slice: 0, 7 %}
+
+    {% if filename_start == "Prompt_" %}
       <p><a href="{{ '/' | relative_url }}">← Back to home</a></p>
     {% endif %}
 
