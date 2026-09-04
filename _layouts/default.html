@@ -10,10 +10,9 @@
 <body>
   <div class="container-lg px-3 my-5 markdown-body">
 
-    {% if page.path contains "Prompt_" %}
-      <p>
-        <a href="{{ site.baseurl }}/">← Back to home</a>
-      </p>
+    {% if page.interaction %}
+      <p><a href="{{ '/' | relative_url }}">← Back to home</a></p>
+      <h1>{{ page.title }}</h1>
     {% endif %}
 
     {{ content }}
